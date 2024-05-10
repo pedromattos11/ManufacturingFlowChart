@@ -7,3 +7,14 @@ Daily real-time update of SAP vs REAL difference.
 System created by PowerApps, which sent the data in real time to SharePoint, which generated a live report in Power BI.
 
 It helped a lot in controlling manufacturing losses of the products.
+
+# System 01
+
+Home Page
+System created so that the real count and SAP numbers are entered every day. 
+
+
+
+
+
+
