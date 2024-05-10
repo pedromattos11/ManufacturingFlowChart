@@ -13,6 +13,9 @@ It helped a lot in controlling manufacturing losses of the products.
 Home Page
 System created so that the real count and SAP numbers are entered every day. 
 
+![homepage](ManufacturingFlowChart/Captura%20de%20tela%202024-04-22%20152251.png)
+
+
 
 
 
