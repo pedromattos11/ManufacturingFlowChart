@@ -23,7 +23,7 @@ DashBoard: Power BI <br>
 ![tryacessdatabase](Captura%20de%20tela%202024-04-22%20152401.png) <br>
 
 # PowerBI Dashboard
-![]() <br>
+![powerbidashboard](powerbidashboard.jpg) <br>
 
 # Page to try acess past data
 ![tryacessdashboard](Captura%20de%20tela%202024-04-22%20152401.png) <br>
