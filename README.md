@@ -8,7 +8,7 @@ System created by PowerApps, which sent the data in real time to SharePoint, whi
 
 It helped a lot in controlling manufacturing losses of the products.
 
-# System 01
+# System 01 - SAP x Real
 
 Home Page
 System created so that the real count and SAP numbers are entered every day. 
