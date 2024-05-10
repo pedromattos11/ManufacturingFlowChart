@@ -28,9 +28,6 @@ DashBoard: Power BI <br>
 # To Release Pallet Data
 ![powerbidashboard](Captura%20de%20tela%202024-04-22%20152315.png) <br>
 
-# Page to try acess past data
-![tryacessdashboard](Captura%20de%20tela%202024-04-22%20152401.png) <br>
-
 
 
 
