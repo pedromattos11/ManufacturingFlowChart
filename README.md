@@ -16,7 +16,12 @@ Database: SharePoint <br>
 IDE: PowerApps <br>
 DashBoard: Power BI <br>
 
-![homepage](Captura%20de%20tela%202024-04-22%20152251.png)
+# HomePage
+![homepage](Captura%20de%20tela%202024-04-22%20152251.png) <br>
+
+# Page to try acess past data
+![tryacessdashboard](Captura%20de%20tela%202024-04-22%20152401.png) <br>
+
 
 
 
