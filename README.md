@@ -11,7 +11,10 @@ It helped a lot in controlling manufacturing losses of the products.
 # System 01 - SAP x Real
 
 Home Page
-System created so that the real count and SAP numbers are entered every day. 
+System created so that the real count and SAP numbers are entered every day.
+Database: SharePoint
+IDE: PowerApps
+DashBoard: Power BI
 
 ![homepage](Captura%20de%20tela%202024-04-22%20152251.png)
 
