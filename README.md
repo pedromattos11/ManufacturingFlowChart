@@ -25,6 +25,9 @@ DashBoard: Power BI <br>
 # PowerBI Dashboard
 ![powerbidashboard](powerbidashboard.jpg) <br>
 
+# To Release Pallet Data
+![powerbidashboard](powerbidashboard.jpg) <br>
+
 # Page to try acess past data
 ![tryacessdashboard](Captura%20de%20tela%202024-04-22%20152401.png) <br>
 
