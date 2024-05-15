@@ -29,6 +29,6 @@ DashBoard: Power BI <br>
 ![powerbidashboard](Captura%20de%20tela%202024-04-22%20152315.png) <br>
 
 # To Release Daily Numbers
-![lancamento](Captura%20de%20tela%202024-04-22%20152315.png) <br>
+![lancamento](contagem.png) <br>
 
 
