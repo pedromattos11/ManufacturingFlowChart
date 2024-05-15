@@ -19,7 +19,7 @@ DashBoard: Power BI <br>
 # HomePage
 ![homepage](Captura%20de%20tela%202024-04-22%20152251.png) <br>
 
-# Try to acess pastdata/database
+# Try to acess Pastdata/Database
 ![tryacessdatabase](Captura%20de%20tela%202024-04-22%20152401.png) <br>
 
 # PowerBI Dashboard
@@ -28,6 +28,7 @@ DashBoard: Power BI <br>
 # To Release Pallet Data
 ![powerbidashboard](Captura%20de%20tela%202024-04-22%20152315.png) <br>
 
-
+# To Release Daily Numbers
+![lancamento](Captura%20de%20tela%202024-04-22%20152315.png) <br>
 
 
